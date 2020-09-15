@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alex Ho" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/Logo.png" # Site logo, also used in jekyll-seo-tag
-description: "I am a second year Ph.D. student at University of California, Merced. I am a mathematician and data scientist by experiences and passion. I research Machine Learning applications and Optimization mothods. When I'm not working, I LOVE playing video games with a group of friends." # Site description and default description, also used in jekyll-seo-tag
+description: "I am a Ph.D. student at University of California, Merced. I am a mathematician and data scientist by experiences and passion. I research Machine Learning applications and Optimization mothods. When I'm not working, I LOVE playing video games with a group of friends." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "aho38@ucmerced.edu"
