@@ -1,12 +1,12 @@
 ---
-title: Affiliation
+title: 
 feature_text: |
   ## Alex Ho
   This is a personal website meant for showcasing research projects, blogs, and other accomplishments.
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
-
+### Affiliation
 <img src="/assets/logos/affiliation.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
