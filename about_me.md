@@ -1,7 +1,7 @@
 ---
 title:
 feature_text: |
-  Welcome to my website. You can find my contact information below.
+  Welcome
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
