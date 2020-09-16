@@ -1,5 +1,4 @@
 ---
-title: 
 feature_text: |
   ## Alex Ho
   This is a personal website meant for showcasing research projects, blogs, and other accomplishments.
