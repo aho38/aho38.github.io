@@ -7,6 +7,9 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
+{% include video.html id="m3lF2qEA2cw" title="Radiohead Creep Cover" %}
+
+{% comment %}
 # Heading 1
 
 ## Heading 2
@@ -142,3 +145,5 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+{% endcomment %}
+
