@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-<a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">link text</a>
+You can also find my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
 
 {% include video.html id="m3lF2qEA2cw" title="Radiohead Creep Cover" %}
 
