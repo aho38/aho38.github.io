@@ -1,5 +1,5 @@
 ---
-title: Elements
+title:
 feature_text: |
   Welcome to my website. You can find my contact information below.
 feature_image: "https://picsum.photos/2560/600?image=873"
