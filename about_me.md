@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-Hi, I'm Alex Ho.
+Hi guys,
 
 Most of my research involves machine learning and optimiztion especially in signal processing and image processing. You can find my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
 
