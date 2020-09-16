@@ -7,8 +7,12 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-You can also find my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
+Hi, I'm Alex Ho.
 
+Most of my research involves machine learning and optimiztion especially in signal processing and image processing. You can find my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
+
+
+This is my favorite song I like to share with you. (:
 {% include video.html id="m3lF2qEA2cw" title="Radiohead Creep Cover" %}
 
 {% comment %}
