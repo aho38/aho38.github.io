@@ -132,8 +132,8 @@ navigation_header:
   url: /
 - title: About Me
   url: /about_me/
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 #- title: Categories
 #  url: /categories/
 #- title: Search
