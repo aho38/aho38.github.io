@@ -11,11 +11,11 @@ Hi guys,
 
 Most of my research involves machine learning and optimiztion especially in signal processing and image processing. You can find my publications in my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
 
-
+{% comment %}
 This is my favorite song I would like to share with you. (:
 {% include video.html id="m3lF2qEA2cw" title="Radiohead Creep Cover" %}
 
-{% comment %}
+
 # Heading 1
 
 ## Heading 2
