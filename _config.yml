@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alex Ho" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/Logo.png" # Site logo, also used in jekyll-seo-tag
-description: "I am a Ph.D. student at University of California, Merced. I am a mathematician and data scientist by experiences and passion. I research Machine Learning applications and Optimization mothods. When I'm not working, I LOVE playing video games with a group of friends." # Site description and default description, also used in jekyll-seo-tag
+description: "I'm a Ph.D. candidate in Applied Mathematics at UC Merced, where I work at the intersection of inverse problems and numerical optimization. My research focuses on using PDE-constrained optimization to estimate physical parameters — such as diffusion coefficients — in complex environmental systems like marine lakes. I develop efficient algorithms that combine traditional numerical methods with modern machine learning techniques to tackle ill-posed problems, improve interpretability, and support real-world decision-making." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "aho38@ucmerced.edu"
