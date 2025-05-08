@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Alex Ho
-  This is a personal website meant for showcasing research projects, blogs, and other accomplishments.
+  Are you lost? 😅
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
