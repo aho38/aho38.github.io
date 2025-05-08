@@ -9,7 +9,7 @@ aside: true
 
 Hi guys,
 
-Most of my research involves machine learning and optimiztion especially in signal processing and image processing. You can find my publications in my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
+I've had the opportunity to collaborate with national labs, including Lawrence Livermore National Lab (LLNL) and Air Force Research Laboratory (AFRL), where I contributed to projects involving symbolic regression, Bayesian optimization, and image analysis. I'm particularly drawn to problems where physics, computation, and data converge — whether that means recovering hidden dynamics, improving predictive models, or designing algorithms with impact. You can find my publications in my updated <a href="https://github.com/aho38/aho38.github.io/blob/master/assets/cv/aho_cv.pdf">CV here</a>. 
 
 {% comment %}
 
