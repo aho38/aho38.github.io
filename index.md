@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-### Affiliation
+Affiliation
 <img src="/assets/logos/affiliation.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
